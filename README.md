@@ -4,6 +4,9 @@ terminal 1: There is a backend folder change directerory to /backend then npm ru
 Terminal 2: There is a porfolio folder change directerory to /portfolio then npm run dev
 click on localhost:...
 I am using mongoDb Live it will automatically retrive the data into the portfolio site. 
+All required information is labeled/commented in the backend
+and portfolio projects files as required. 
+
 
 The portfolio has 3 pages
 Home, Projects and skills
