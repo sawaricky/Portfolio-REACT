@@ -1,0 +1,21 @@
+.project-card{
+ display: flex;
+ border-bottom: 5px solid #60992D;
+ border-top: 5px solid #60992D;
+ justify-content: space-between;
+ align-items: center;
+ flex-direction: row;
+ max-width:650px;
+ width: 100%;
+ margin: auto;
+ gap: 50px;
+}
+.project-card:nth-child(2n){
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+.content{
+    max-width: 400px;
+
+}
