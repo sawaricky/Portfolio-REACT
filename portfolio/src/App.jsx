@@ -14,8 +14,17 @@ const Home = () => (
           <p>Hello, I'm Akash</p>
           <h1>Web Developer</h1>
           <p>Based in Canada</p>
-          <button className='download-button'>Download Resume</button>
+          {/* <button className='download-button'>Download Resume</button> */}
+          <a 
+          href="/public/resume.pdf" 
+          download="Resume.pdf" 
+          className="download-button"
+        >
+          Download Resume
+        </a>
         </div>
+
+        download-button
         <div className="right">
           <img src="/public/assets/me-image.png" alt="Akash Sharma" />
         </div>
