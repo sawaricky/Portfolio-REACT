@@ -23,8 +23,6 @@ const Home = () => (
           Download Resume
         </a>
         </div>
-
-        download-button
         <div className="right">
           <img src="/public/assets/me-image.png" alt="Akash Sharma" />
         </div>
