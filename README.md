@@ -12,8 +12,8 @@ The portfolio has 3 pages
 Home, Projects and skills
 The home page has basically all personal informational data.
 Projects retrieves data from the database to display projects I have done. A short blurb of information is provided about the project. As moving forward in the future their may be lots of projects. 
-  making it short and straight forward is the best. The readme in each file has lots of description. 
-Skills shows all the programming languages and skills i have used to develop projects with. 
+  making it short and straight forward is the best. The readme in each github folder has lots of description for each individual project. 
+Skills shows all the programming languages, images and skills i have used to develop projects with and are retrieved from the database too. 
 
 Due to time contraints: 
 I have shown 2 projects for the projects page as a proof of concept and will look forward to implementing and further implmenting during the week break.
